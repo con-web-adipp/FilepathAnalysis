@@ -28,7 +28,7 @@ The plugin is ready to use immediately (e.g. via ``Case Data -> Rescan against P
 
 The plugin helps to automatically pre-sort the data in an Analyze DI Pro case, especially when analyzing smartphone data. 
 On the one hand, system and program files that dont match with the NIST whitelist can be identified (e.g. if the search term "emoji" appears somewhere in the file path).
-On the other hand, evaluating the filepath makes it possible to assigned the files to specific applications (WhatsApp, Instagram, etc.).
+On the other hand, evaluating the filepath makes it possible to assign the files to specific applications (WhatsApp, Instagram, etc.).
 
 The watch lists are stored in a .JSON file at the following file path:
 
