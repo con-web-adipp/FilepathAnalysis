@@ -1,0 +1,41 @@
+﻿[
+  {
+    "Id": "e06ef8b0-1ed3-4f87-b820-fbc1b16a47c2",
+    "FriendlyName": "FilepathAnalysis",
+    "ExecutableFilePath": "FilepathAnalysis.exe",
+    "ExecutableArguments": "",
+    "UseJsonInput": true,
+    "JsonInputFields": [
+      20,
+      32
+    ],
+    "MaxSimultaneousInstances": 0,
+    "WaitForExit": false,
+    "ParseOutput": true,
+    "ShouldWriteErrorLog": true,
+    "ExecutionTypes": 3,
+    "AutoStart": false,
+    "ForceTermination": true,
+    "SupportsBatchProcessing": true,
+    "MaxBatchSize": 10000,
+    "FileClassFilter": [],
+    "Description": "",
+    "IconPath": "",
+    "OdtFilePaths": [],
+    "Requirements": "",
+    "Vendor": "",
+    "TimeoutForExecution": 0,
+    "Version": "1.0.0",
+    "ProductName": "FilepathAnalysis",
+    "FileFilterSettings": {
+      "MinWidth": null,
+      "MinHeight": null,
+      "MinSize": null,
+      "MaxSize": null,
+      "IncludeCategorized": true,
+      "IncludeUncategorized": true
+    },
+    "CustomProperties": [],
+    "ShowInForensicMarket": true
+  }
+]

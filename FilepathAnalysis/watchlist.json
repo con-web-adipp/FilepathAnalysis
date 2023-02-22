@@ -1,0 +1,33 @@
+[
+  {
+    "Name": "social_media",
+    "SearchTerms": [
+      "whatsapp",
+      "viber",
+      "instagram",
+      "telegram",
+      "signal",
+      "threema",
+      "facebook",
+      "twitter",
+      "snapchat",
+      "tiktok",
+      "musically"
+    ]
+  },
+  {
+    "Name": "software",
+    "SearchTerms": [
+      "\\.apk",
+      "\\.bundle",
+      "texture",
+      "favicon",
+      "emoji",
+      "emoticon",
+      "framework",
+      "resource",
+      "wallpaper",
+      "thumbnails"
+    ]
+  }
+]
