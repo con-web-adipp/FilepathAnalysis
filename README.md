@@ -17,7 +17,7 @@ If a search term has a match, a bookmark is attached to the respective file in A
 
 ### Download and installation
 
-The latest release is available for download on the [release page of this repository](https://github.com/con-web-adipp/Tesseract4AnalyzeWatchlist/releases).
+The latest release is available for download on the [release page of this repository](https://github.com/con-web-adipp/FilepathAnalysis/releases).
 
 
 Install the plugin by selecting ``FilepathAnalysis_[Version].appkg`` from ``File -> Settings -> Plugins -> Install`` within Griffeye Analyze DI Pro.
